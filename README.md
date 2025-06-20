@@ -4,8 +4,8 @@ An Android application that captures camera frames, processes them using OpenCV 
 
 
 
-### Core Features (Must-Have)
-- ** Camera Feed Integration88
+### Core Features 
+- **Camera Feed Integration**
   - Real-time camera capture using CameraX API
   - YUV420_888 format handling with proper stride management
   - Efficient frame processing with background threading
@@ -16,7 +16,7 @@ An Android application that captures camera frames, processes them using OpenCV 
   - Morphological operations for edge enhancement
   - Optimized grayscale (Y-plane) processing
 
-- **🎨 Real-time OpenGL ES Rendering88
+- **Real-time OpenGL ES Rendering**
   - Custom OpenGL ES 2.0 renderer with vertex/fragment shaders
   - Efficient texture streaming and updates
   - Smooth real-time performance (10-15 FPS minimum)
