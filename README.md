@@ -186,8 +186,4 @@ implementation 'androidx.camera:camera-view:1.3.0'
 // Android NDK
 ```
 
-- Toggle between raw camera feed and edge detection
-- FPS counter and performance metrics
-- Additional OpenCV filters (Gaussian blur, threshold)
-- Camera controls (exposure, focus)
-- Multiple edge detection algorithms
+
